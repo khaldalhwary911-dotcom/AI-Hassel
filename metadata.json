@@ -1,0 +1,9 @@
+{
+  "name": "AI Hassel - All-in-One AI Toolkit",
+  "description": "A comprehensive web application that integrates a wide array of Gemini AI features, including text and chat, image and video generation, real-time voice conversations, content analysis, and information grounding with Google Search and Maps.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
